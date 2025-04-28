@@ -1,0 +1,25 @@
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-images-idx3-ubyte.gz to ./MNIST/raw/train-images-idx3-ubyte.gz
+100%|██████████| 9912422/9912422 [00:00<00:00, 40519884.61it/s]
+Extracting ./MNIST/raw/train-images-idx3-ubyte.gz to ./MNIST/raw
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/train-labels-idx1-ubyte.gz to ./MNIST/raw/train-labels-idx1-ubyte.gz
+100%|██████████| 28881/28881 [00:00<00:00, 1110012.77it/s]
+Extracting ./MNIST/raw/train-labels-idx1-ubyte.gz to ./MNIST/raw
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-images-idx3-ubyte.gz to ./MNIST/raw/t10k-images-idx3-ubyte.gz
+100%|██████████| 1648877/1648877 [00:00<00:00, 10287295.22it/s]
+Extracting ./MNIST/raw/t10k-images-idx3-ubyte.gz to ./MNIST/raw
+
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz
+Downloading https://ossci-datasets.s3.amazonaws.com/mnist/t10k-labels-idx1-ubyte.gz to ./MNIST/raw/t10k-labels-idx1-ubyte.gz
+100%|██████████| 4542/4542 [00:00<00:00, 2196532.78it/s]
+Extracting ./MNIST/raw/t10k-labels-idx1-ubyte.gz to ./MNIST/raw
+
+Epoch: 1, Train Loss: 0.353, Valid Loss: 0.311085, Accuracy: 0.91
+Epoch: 2, Train Loss: 0.374, Valid Loss: 0.251247, Accuracy: 0.93
+Epoch: 3, Train Loss: 0.227, Valid Loss: 0.219894, Accuracy: 0.93
+Epoch: 4, Train Loss: 0.217, Valid Loss: 0.204576, Accuracy: 0.93
+Epoch: 5, Train Loss: 0.189, Valid Loss: 0.191753, Accuracy: 0.94

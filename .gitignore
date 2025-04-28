@@ -1,0 +1,11 @@
+.bashrc
+.cache/
+.config/
+.docker/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.viminfo
+src/
+tutorials/

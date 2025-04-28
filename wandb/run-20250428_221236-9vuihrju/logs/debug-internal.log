@@ -1,0 +1,16 @@
+{"time":"2025-04-28T22:12:37.022976962Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/home/jupyter/wandb/run-20250428_221236-9vuihrju/logs/debug-core.log"}
+{"time":"2025-04-28T22:12:37.157062312Z","level":"INFO","msg":"created new stream","id":"9vuihrju"}
+{"time":"2025-04-28T22:12:37.157103309Z","level":"INFO","msg":"stream: started","id":"9vuihrju"}
+{"time":"2025-04-28T22:12:37.157126261Z","level":"INFO","msg":"handler: started","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:37.157119211Z","level":"INFO","msg":"writer: Do: started","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:37.157155362Z","level":"INFO","msg":"sender: started","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:37.237316489Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T22:12:39.973228205Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T22:12:39.973285983Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T22:12:40.45170094Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T22:12:40.554173902Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-28T22:12:40.561439251Z","level":"INFO","msg":"stream: closing","id":"9vuihrju"}
+{"time":"2025-04-28T22:12:40.56146162Z","level":"INFO","msg":"handler: closed","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:40.56148652Z","level":"INFO","msg":"sender: closed","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:40.561471494Z","level":"INFO","msg":"writer: Close: closed","stream_id":"9vuihrju"}
+{"time":"2025-04-28T22:12:40.561557049Z","level":"INFO","msg":"stream: closed","id":"9vuihrju"}

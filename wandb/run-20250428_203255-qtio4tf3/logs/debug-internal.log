@@ -1,0 +1,16 @@
+{"time":"2025-04-28T20:32:55.246730453Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/home/jupyter/wandb/run-20250428_203255-qtio4tf3/logs/debug-core.log"}
+{"time":"2025-04-28T20:32:55.365956042Z","level":"INFO","msg":"created new stream","id":"qtio4tf3"}
+{"time":"2025-04-28T20:32:55.365986046Z","level":"INFO","msg":"stream: started","id":"qtio4tf3"}
+{"time":"2025-04-28T20:32:55.366017107Z","level":"INFO","msg":"writer: Do: started","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:32:55.366036999Z","level":"INFO","msg":"sender: started","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:32:55.366042643Z","level":"INFO","msg":"handler: started","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:32:55.503779019Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T20:33:02.641684946Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T20:33:02.641738459Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T20:33:03.649989818Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-qtio4tf3-predictions_table","runtime_seconds":1.242694677}],"total_operations":1}}
+{"time":"2025-04-28T20:33:03.995327898Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T20:33:04.099079832Z","level":"INFO","msg":"stream: closing","id":"qtio4tf3"}
+{"time":"2025-04-28T20:33:04.099105297Z","level":"INFO","msg":"handler: closed","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:33:04.099119457Z","level":"INFO","msg":"writer: Close: closed","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:33:04.099195874Z","level":"INFO","msg":"sender: closed","stream_id":"qtio4tf3"}
+{"time":"2025-04-28T20:33:04.099216902Z","level":"INFO","msg":"stream: closed","id":"qtio4tf3"}

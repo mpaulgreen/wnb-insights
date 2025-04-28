@@ -1,0 +1,16 @@
+{"time":"2025-04-28T20:32:43.041291882Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/home/jupyter/wandb/run-20250428_203243-iwon7kzh/logs/debug-core.log"}
+{"time":"2025-04-28T20:32:43.190009143Z","level":"INFO","msg":"created new stream","id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:43.190037355Z","level":"INFO","msg":"stream: started","id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:43.190057849Z","level":"INFO","msg":"writer: Do: started","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:43.190236222Z","level":"INFO","msg":"sender: started","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:43.190246068Z","level":"INFO","msg":"handler: started","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:43.373910322Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T20:32:53.168902382Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T20:32:53.168956119Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T20:32:54.17368072Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-iwon7kzh-predictions_table","runtime_seconds":1.230981055,"subtasks":[{"desc":"media/images/12f92cb0c9c43196eb02.png","runtime_seconds":0.691289805,"progress":"313B/313B"}]}],"total_operations":1}}
+{"time":"2025-04-28T20:32:55.070457834Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T20:32:55.204650688Z","level":"INFO","msg":"stream: closing","id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:55.204678107Z","level":"INFO","msg":"handler: closed","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:55.204692253Z","level":"INFO","msg":"writer: Close: closed","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:55.204703275Z","level":"INFO","msg":"sender: closed","stream_id":"iwon7kzh"}
+{"time":"2025-04-28T20:32:55.204773801Z","level":"INFO","msg":"stream: closed","id":"iwon7kzh"}

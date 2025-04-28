@@ -1,0 +1,36 @@
+{
+  "os": "Linux-5.10.0-34-cloud-amd64-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.17",
+  "startedAt": "2025-04-28T22:12:31.522556Z",
+  "program": "<python with no main file>",
+  "email": "paul.mriganka@gmail.com",
+  "root": "/home/jupyter",
+  "host": "wandb",
+  "executable": "/opt/conda/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "105426538496",
+      "used": "33524699136"
+    }
+  },
+  "memory": {
+    "total": "15728848896"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

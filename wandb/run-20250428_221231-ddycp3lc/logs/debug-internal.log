@@ -1,0 +1,16 @@
+{"time":"2025-04-28T22:12:31.524359877Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/home/jupyter/wandb/run-20250428_221231-ddycp3lc/logs/debug-core.log"}
+{"time":"2025-04-28T22:12:31.661394262Z","level":"INFO","msg":"created new stream","id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:31.661425748Z","level":"INFO","msg":"stream: started","id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:31.662025356Z","level":"INFO","msg":"writer: Do: started","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:31.662031104Z","level":"INFO","msg":"sender: started","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:31.662099067Z","level":"INFO","msg":"handler: started","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:31.803994412Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T22:12:34.432660946Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T22:12:34.432718048Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T22:12:34.624222909Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T22:12:34.711849449Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-28T22:12:34.718381714Z","level":"INFO","msg":"stream: closing","id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:34.718413301Z","level":"INFO","msg":"handler: closed","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:34.71842396Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:34.718519562Z","level":"INFO","msg":"sender: closed","stream_id":"ddycp3lc"}
+{"time":"2025-04-28T22:12:34.718608246Z","level":"INFO","msg":"stream: closed","id":"ddycp3lc"}

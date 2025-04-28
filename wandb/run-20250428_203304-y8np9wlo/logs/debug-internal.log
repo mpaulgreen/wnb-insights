@@ -1,0 +1,16 @@
+{"time":"2025-04-28T20:33:04.142955625Z","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/home/jupyter/wandb/run-20250428_203304-y8np9wlo/logs/debug-core.log"}
+{"time":"2025-04-28T20:33:04.268269491Z","level":"INFO","msg":"created new stream","id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:04.268312201Z","level":"INFO","msg":"stream: started","id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:04.268321514Z","level":"INFO","msg":"handler: started","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:04.268349778Z","level":"INFO","msg":"writer: Do: started","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:04.2683593Z","level":"INFO","msg":"sender: started","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:04.394523754Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T20:33:11.68488189Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T20:33:11.684929643Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T20:33:12.689936139Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-y8np9wlo-predictions_table","runtime_seconds":1.152538078,"subtasks":[{"desc":"media/images/f169dbe8aaae249fe25b.png","runtime_seconds":0.751242654,"progress":"289B/289B"},{"desc":"media/images/167592b6e297ab86cf88.png","runtime_seconds":0.403293536,"progress":"211B/211B"}]},{"desc":"uploading artifact my_mnist_model","runtime_seconds":1.010001348}],"total_operations":2}}
+{"time":"2025-04-28T20:33:14.814200799Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T20:33:14.927320594Z","level":"INFO","msg":"stream: closing","id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:14.927347409Z","level":"INFO","msg":"handler: closed","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:14.927360314Z","level":"INFO","msg":"writer: Close: closed","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:14.927432151Z","level":"INFO","msg":"sender: closed","stream_id":"y8np9wlo"}
+{"time":"2025-04-28T20:33:14.92744946Z","level":"INFO","msg":"stream: closed","id":"y8np9wlo"}
