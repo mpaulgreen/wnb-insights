@@ -9,3 +9,5 @@
 .viminfo
 src/
 tutorials/
+.env
+
