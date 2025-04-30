@@ -35,3 +35,22 @@ git push
 vi .env
 vi .env
 vi .env
+vi .env
+cat e,nv
+cat ,env
+cat .env
+git status
+git add .
+git commit -m "Sample evaluation pipeline completed"
+git push
+git add .
+git commit -m "Adding tracing output of evaluations"
+git push
+git status
+git add .
+git commit -m "Evaluate RAG app"
+git push
+git status
+git add .
+git commit -m "Some more feature while evaluating"
+git push
